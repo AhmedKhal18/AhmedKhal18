@@ -1,16 +1,43 @@
-## Hi there 👋
+# Ahmed Khalil
 
-<!--
-**AhmedKhal18/AhmedKhal18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineer II @ Honeywell → Pivoting into Backend / DevOps / AI Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+* **FastAPI CI/CD Backend**
+  Production-ready FastAPI app with Docker, PostgreSQL, CI/CD, and Kubernetes
+  👉 https://github.com/AhmedKhal18/fastapi-cicd-crud-project
+
+* **Agentic AI Customer System**
+  Multi-agent system using LangChain, FastAPI, and vector databases
+  👉 https://github.com/AhmedKhal18/ASU-agenticcustomer-project
+
+* **Threat Hunter AI**
+  Autonomous cybersecurity agent using ELK stack, GPT, and anomaly detection
+  👉 https://github.com/AhmedKhal18/threat-hunter-ai
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, SQL
+**Backend:** FastAPI, REST APIs
+**DevOps:** Docker, Kubernetes, GitHub Actions
+**Cloud:** AWS (EC2, S3)
+**AI/ML:** LangChain, OpenAI, Vector DBs
+
+---
+
+## 🎯 Current Focus
+
+* Mastering Data Structures & Algorithms (LeetCode)
+* Building production-level backend systems
+* Transitioning into Software Engineering / FAANG
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/ahmed-khalil-48b463207/
