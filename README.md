@@ -4,23 +4,26 @@ Electrical Engineer II @ Honeywell → Pivoting into Backend / DevOps / AI Engin
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 * **FastAPI CI/CD Backend**
   Production-ready FastAPI app with Docker, PostgreSQL, CI/CD, and Kubernetes
-  👉 https://github.com/AhmedKhal18/fastapi-cicd-crud-project
+    https://github.com/AhmedKhal18/fastapi-cicd-crud-project
 
 * **Agentic AI Customer System**
   Multi-agent system using LangChain, FastAPI, and vector databases
-  👉 https://github.com/AhmedKhal18/ASU-agenticcustomer-project
+    https://github.com/AhmedKhal18/ASU-agenticcustomer-project
 
 * **Threat Hunter AI**
   Autonomous cybersecurity agent using ELK stack, GPT, and anomaly detection
-  👉 https://github.com/AhmedKhal18/threat-hunter-ai
+    https://github.com/AhmedKhal18/threat-hunter-ai
+* **Resume Optimizer**
+  AI Resume Optimizer using Python, OpenAI API key, and Render Deployment
+    https://github.com/AhmedKhal18/ai-resume-optimizer
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Languages:** Python, SQL
 **Backend:** FastAPI, REST APIs
@@ -30,7 +33,7 @@ Electrical Engineer II @ Honeywell → Pivoting into Backend / DevOps / AI Engin
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 * Mastering Data Structures & Algorithms (LeetCode)
 * Building production-level backend systems
@@ -38,6 +41,6 @@ Electrical Engineer II @ Honeywell → Pivoting into Backend / DevOps / AI Engin
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/ahmed-khalil-48b463207/
